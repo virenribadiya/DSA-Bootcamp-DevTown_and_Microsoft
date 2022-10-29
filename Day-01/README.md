@@ -24,3 +24,16 @@ An example of this data structure is an array.
 Examples of this data structure are queue, stack, etc.
 - <b> Non-linear data structure: </b> <br> Data structures where data elements are not placed sequentially or linearly are called non-linear data structures. In a non-linear data structure, we can’t traverse all the elements in a single run only. 
 Examples of non-linear data structures are trees and graphs.
+
+## Arrays:
+An array is a linear data structure and it is a collection of items stored at contiguous memory locations. The idea is to store multiple items of the same type together in one place. It allows the processing of a large amount of data in a relatively short period. The first element of the array is indexed by a subscript of 0. There are different operations possible in an array, like Searching, Sorting, Inserting, Traversing, Reversing, and Deleting.
+
+- Arrays use an index-based data structure which helps to identify each of the elements in an array easily using the index.
+- If a user wants to store multiple values of the same data type, then the array can be utilized efficiently.
+- An array can also handle complex data structures by storing data in a two-dimensional array.
+- An array is also used to implement other data structures like Stacks, Queues, Heaps, Hash tables, etc.
+- The search process in an array can be done very easily.
+
+<p align="center" width="100%">
+    <img src="https://user-images.githubusercontent.com/77874244/198848163-8dda0bce-841e-4c49-afa7-27832eb9c878.png">
+</p>
