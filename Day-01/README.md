@@ -37,3 +37,27 @@ An array is a linear data structure and it is a collection of items stored at co
 <p align="center" width="100%">
     <img src="https://user-images.githubusercontent.com/77874244/198848163-8dda0bce-841e-4c49-afa7-27832eb9c878.png">
 </p>
+
+
+## Linked list: 
+A linked list is a linear data structure in which elements are not stored at contiguous memory locations. The elements in a linked list are linked using pointers as shown in the below image: 
+
+- A linked list uses extra memory to store links.
+- During initialization of linked list, there is no need to know the size of the elements.
+- Linked lists are used to implement stacks, queues, graphs, etc.
+- The first node of the linked list is called the Head.
+- The next pointer of the last node always points to NULL.
+- In linked list, insertion and deletion is possible easily.
+- Each node of the linked list consists of a pointer/link which is the address of the next node.
+- Linked list can shrink or grow at any point in time easily.
+
+### Types of linked list:
+
+- Singly-linked list
+- Doubly linked list
+- Circular linked list
+- Doubly circular linked list
+
+<p align="center" width="100%">
+    <img src="https://user-images.githubusercontent.com/77874244/198848545-d21f128e-0a1b-4ebd-b3d0-bb7853739b93.png">
+</p>
