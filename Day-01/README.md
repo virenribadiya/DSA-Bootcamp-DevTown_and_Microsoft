@@ -1,5 +1,11 @@
 # Day 01
 
+## Why the arrays are so popular in todays world?? OR What are the main advantages of using arrays?
+There are main two reaons behind it.
+1. Cache-friendliness
+2. Random access 
+
+
 ## Data structure:
 Container in which we store different kinds of data together in unified manner depending upon requirements.
 
